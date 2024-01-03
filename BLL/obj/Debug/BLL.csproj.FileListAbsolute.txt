@@ -1,0 +1,15 @@
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\BLL.dll
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\BLL.pdb
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\DAL.dll
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\DAL.pdb
+D:\semester 11\.Net\ASP .NET  Web API\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\semester 11\.Net\ASP .NET  Web API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\semester 11\.Net\ASP .NET  Web API\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\semester 11\.Net\ASP .NET  Web API\BLL\obj\Debug\BLL.dll
+D:\semester 11\.Net\ASP .NET  Web API\BLL\obj\Debug\BLL.pdb
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\AutoMapper.dll
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\DAL.dll.config
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\AutoMapper.xml
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\EntityFramework.dll
+D:\semester 11\.Net\ASP .NET  Web API\BLL\bin\Debug\EntityFramework.xml
